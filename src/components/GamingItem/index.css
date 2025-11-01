@@ -1,0 +1,12 @@
+.link-container {
+  text-decoration: none;
+  width: 180px;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .link-container {
+    width: 190px;
+    margin-right: 12px;
+  }
+}

@@ -1,0 +1,9 @@
+.link {
+  text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  .link {
+    width: 280px;
+  }
+}

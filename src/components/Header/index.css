@@ -1,0 +1,14 @@
+.popup-content {
+  width: 100%;
+  padding: 0;
+  border: none;
+}
+
+.link {
+  width: 100%;
+  text-decoration: none;
+}
+
+.popup {
+  width: 80%;
+}
